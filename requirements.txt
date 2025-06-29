@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+deep-translator
+requests
+openai
+pytesseract
+pillow
+SpeechRecognition
+pydub
+flask
